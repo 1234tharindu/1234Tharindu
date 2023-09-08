@@ -6,6 +6,7 @@
 
 - 👀 I’m interested in Software Development & Web Development
 - 🌱 I’m currently learning MERN Stack
+- 👨‍🎓 I’m an undergraduate in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka.
 - 📫 How to reach me:-
      - Discord -  [tharindu8374](https://discord.com/users/1111999629572190269)
      - Email - dehipitiya055@gmail.com
